@@ -1,13 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pei-hsuan-hsu/" target="_blank" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" style="vertical-align:middle; margin-right: 8px;" />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=hsuan5483.hsuan5483&left_color=%23FF8904&right_color=%23FF8904" alt="visitor badge" style="vertical-align:middle;" />
+  <a href="https://www.linkedin.com/in/pei-hsuan-hsu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hsuan5483.hsuan5483&left_color=%23FF8904&right_color=%23FF8904" alt="visitor badge" />
   </a>
 </div>
 
@@ -40,7 +40,7 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-<p align="left">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo" />
-</p>
+</div>
 
 ###
 
