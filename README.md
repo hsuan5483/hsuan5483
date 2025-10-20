@@ -48,17 +48,23 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python logo" /></a>
+  <a href="https://www.spyder-ide.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/spyder/spyder-original.svg" alt="Spyder logo" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" height="40" alt="Anaconda logo" /></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium logo" /></a>
+  <a href="https://matplotlib.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40" alt="matplotlib logo" /></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn logo" /></a>
+  <a href="https://keras.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/keras/keras-original.svg" width="40" height="40" alt="keras logo" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow logo" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch logo" /></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV logo" /></a>
+<a href="https://www.kaggle.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle logo" /></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R logo" /></a>
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40" /> </a>
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40" /></a>
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/spss/spss-original.svg" alt="rstudio" width="40" height="40" /></a>
   <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go logo" /></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java logo" /></a>
+    <a href="https://gradle.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40" alt="Gradle logo" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL logo" /></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma logo" /></a>
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX logo" /></a>
@@ -70,7 +76,9 @@
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes logo" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker logo" /></a>
   <a href="https://www.notion.so/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40" alt="Notion logo" /></a>
-  <a href="https://gradle.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40" alt="Gradle logo" /></a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/jira/jira-original.svg" width="40" height="40" alt="Jira logo" /></a>
+    <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/github/github-original.svg" width="40" height="40" alt="github logo" /></a>
+  <a href="https://huggingface.co" target="_blank"><img src="https://cas-bridge.xethub.hf.co/xet-bridge-us/63d3eec885118edc0439bd98/b5b6c9df87c8c406e1f861d53537050e7f0ed7aaee4f7768fe9087ee7db54992?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T102447Z&X-Amz-Expires=3600&X-Amz-Signature=f955bd4a491301bb6a280b8d556b9a440e0df85fe0f497f4c82b7df0b684d30e&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=66f3a7b52d2e360fd3d1940c&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&x-id=GetObject&Expires=1760959487&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MDk1OTQ4N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82M2QzZWVjODg1MTE4ZWRjMDQzOWJkOTgvYjViNmM5ZGY4N2M4YzQwNmUxZjg2MWQ1MzUzNzA1MGU3ZjBlZDdhYWVlNGY3NzY4ZmU5MDg3ZWU3ZGI1NDk5MioifV19&Signature=YhJt99m94UUGoP-REIxW4EhwGtGy%7En64XaN7RKPMx9Hz8%7Ej-apjJAV8UUVL7YFVPKzC2CYoHnN5MdYbGnzk93vv9cXtJzUBt0xxttraqdGRDjJ4LbCbRPiQ9QL6OQvTPOALYrHNtL7wylS9TD0u6ThqmW4mE7riRheS-fAlAMyrLloEXJFT0-%7E07yBWUnwamN2q5E30JLrmiyu3TY%7EGcZ6HiGXtMoPmGM7K7ytqBbPoW9qvLMHjR1Z8EAIuh0W3hDqwjt8M-CwOy30MJ7jo2ssC25EJZGCEppNstUZm5IIdGqK0FAGlhDeXZm5cY6RpRPH3PLNA4LPhRYfxwSe268w__&Key-Pair-Id=K2L8F4GPSG1IFC" width="40" height="40" alt="Hugging Face logo" /></a>
 </div>
 
 ###
