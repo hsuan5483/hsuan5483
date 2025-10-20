@@ -20,12 +20,12 @@
 ###
 
 <p align="left">
-
-- 🎓 I am a dual master's graduate in Data Science and Financial Engineering. <!-- - 📊 I work as AI Data Scientist at a hedge fund.-->
+  
+- 🎓 I'm a dual master's graduate in Data Science and Financial Engineering. <!-- - 📊 I work as AI Data Scientist at a hedge fund.-->
+- 🗣️ I speak fluently in Mandarin and English.
 - 🔭 I’m currently working on a JAVA-based pricing engines for fixed income products: [RatesQuantProject](https://github.com/hsuan5483/RatesQuantProject)
 - 💰 My goal is to use AI, statistics, and math to discover the sercrets of financial markets.
 - 🥂 In my free time, I love music, movies, and cafe hopping.
-
 </p>
 
 ###
