@@ -23,7 +23,7 @@
 
 - 🎓 I am a dual master's graduate in Data Science and Financial Engineering. <!-- - 📊 I work as AI Data Scientist at a hedge fund.-->
 - 🔭 I’m currently working on a JAVA-based pricing engines for fixed income products: [RatesQuantProject](https://github.com/hsuan5483/RatesQuantProject)
-- 💰 My goal is to use AI and math to find the sercrets of financial markets.
+- 💰 My goal is to use AI, statistics, and math to find the sercrets of financial markets.
 - 🥂 In my free time, I love music, movies, and cafe hopping.
 
 </p>
@@ -47,6 +47,8 @@
 <h3 align="left">🛠 Language and Tools</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
+  <a href="https://www.bloomberg.com/professional" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQG9jVdF5ymfGQ/company-logo_200_200/company-logo_200_200/0/1631372914196/bloomberg_professional_service_logo?e=1762387200&v=beta&t=y4m2EExEEPNzOZPdh5dlCbWhu6pnOw25y8h5HuSoORo" width="40" height="40" alt="bbg logo" /></a>
+  <a href="https://www.numerix.com" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D560BAQHH4L92crYNGg/company-logo_200_200/company-logo_200_200/0/1714522007690/numerix_logo?e=1762387200&v=beta&t=hsYHRrjfmfIDstZ0m8Ro4cri1AkRJgX3NdDkEZfWbT0" width="40" height="40" alt="numerix logo" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python logo" /></a>
   <a href="https://www.spyder-ide.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/spyder/spyder-original.svg" alt="Spyder logo" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
@@ -82,8 +84,6 @@
   <a href="https://github.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/github/github-original.svg" width="40" height="40" alt="github logo" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/git/git-original.svg" width="40" height="40" alt="git logo" /></a>
   <a href="https://huggingface.co" target="_blank"><img src="https://cas-bridge.xethub.hf.co/xet-bridge-us/63d3eec885118edc0439bd98/b5b6c9df87c8c406e1f861d53537050e7f0ed7aaee4f7768fe9087ee7db54992?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20251020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251020T102447Z&X-Amz-Expires=3600&X-Amz-Signature=f955bd4a491301bb6a280b8d556b9a440e0df85fe0f497f4c82b7df0b684d30e&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=66f3a7b52d2e360fd3d1940c&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&x-id=GetObject&Expires=1760959487&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MDk1OTQ4N319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82M2QzZWVjODg1MTE4ZWRjMDQzOWJkOTgvYjViNmM5ZGY4N2M4YzQwNmUxZjg2MWQ1MzUzNzA1MGU3ZjBlZDdhYWVlNGY3NzY4ZmU5MDg3ZWU3ZGI1NDk5MioifV19&Signature=YhJt99m94UUGoP-REIxW4EhwGtGy%7En64XaN7RKPMx9Hz8%7Ej-apjJAV8UUVL7YFVPKzC2CYoHnN5MdYbGnzk93vv9cXtJzUBt0xxttraqdGRDjJ4LbCbRPiQ9QL6OQvTPOALYrHNtL7wylS9TD0u6ThqmW4mE7riRheS-fAlAMyrLloEXJFT0-%7E07yBWUnwamN2q5E30JLrmiyu3TY%7EGcZ6HiGXtMoPmGM7K7ytqBbPoW9qvLMHjR1Z8EAIuh0W3hDqwjt8M-CwOy30MJ7jo2ssC25EJZGCEppNstUZm5IIdGqK0FAGlhDeXZm5cY6RpRPH3PLNA4LPhRYfxwSe268w__&Key-Pair-Id=K2L8F4GPSG1IFC" width="40" height="40" alt="Hugging Face logo" /></a>
-  <a href="https://www.bloomberg.com/professional" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQG9jVdF5ymfGQ/company-logo_200_200/company-logo_200_200/0/1631372914196/bloomberg_professional_service_logo?e=1762387200&v=beta&t=y4m2EExEEPNzOZPdh5dlCbWhu6pnOw25y8h5HuSoORo" width="40" height="40" alt="bbg logo" /></a>
-    <a href="https://www.numerix.com" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D560BAQHH4L92crYNGg/company-logo_200_200/company-logo_200_200/0/1714522007690/numerix_logo?e=1762387200&v=beta&t=hsYHRrjfmfIDstZ0m8Ro4cri1AkRJgX3NdDkEZfWbT0" width="40" height="40" alt="numerix logo" /></a>
 </div>
 
 ###
