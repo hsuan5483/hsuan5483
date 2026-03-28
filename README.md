@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Amelia ✨</h1>
-<h3 align="center">A quantitative researcher working on AI-driven trading strategies</h3>
 
 ###
 
