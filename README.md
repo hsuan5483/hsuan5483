@@ -46,8 +46,8 @@
 <h3 align="left">🛠 Language and Tools</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
-  <a href="https://www.bloomberg.com/professional" target="_blank"><img src="https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logoColor=white" height="40" alt="Bloomberg" /></a>
-  <a href="https://www.numerix.com" target="_blank"><img src="https://img.shields.io/badge/Numerix-1B2A4A?style=for-the-badge&logoColor=white" height="40" alt="Numerix" /></a>
+  <a href="https://www.bloomberg.com/professional" target="_blank"><img src="./assets/bloomberg_logo.jpg" width="40" height="40" alt="Bloomberg logo" /></a>
+<a href="https://www.numerix.com" target="_blank"><img src="./assets/numerix_logo.jpeg" width="40" height="40" alt="Numerix logo" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python logo" /></a>
   <a href="https://www.spyder-ide.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/spyder/spyder-original.svg" alt="Spyder logo" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
